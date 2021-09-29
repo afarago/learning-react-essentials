@@ -1,3 +1,17 @@
+# React.js Essential Training
+https://www.linkedin.com/learning/react-js-essential-training/
+
+## INSTRUCTOR
+Eve Porcello, Software Developer and Instructor
+
+# Course details
+1h 49m, Intermediate, Released: 11/16/2020
+
+Among all other JavaScript libraries, React.js stands out. It relies on reusable components, not templates, for UI development, allowing developers to render views where data changes over time. React applications are more scalable and more maintainable, making developers more efficient and users more satisfied. In this course, Eve Porcello introduces the basics of the React library using the most modern syntax and best practices for creating React components. Along the way, learn how to set up Chrome tools for React; create new components; work with the built-in Hooks in React; and more. By the end of the course, you'll understand the essentials of React.js and be able to start building your own browser-based projects.
+
+# Skills covered
+- React.js
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
